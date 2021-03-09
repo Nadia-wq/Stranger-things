@@ -1,0 +1,9 @@
+body{
+    background-image:url("stbg.jpg");
+    text-align:center;
+    background-position:center;
+    background-size:cover;
+  }
+  h1{
+    font-size:70px;
+  }
